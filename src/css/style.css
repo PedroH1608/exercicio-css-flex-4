@@ -1,0 +1,66 @@
+body{
+    font-family: 'Public Sans', sans-serif;
+}
+
+main{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    height: 100vh;
+}
+
+.image{
+    width: 435px;
+}
+
+.rome{
+    background-image: url(../images/rome.png);
+    width: 335px;
+    height: 431.033px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 40px 20px;
+}
+
+.boat{
+    background-image: url(../images/boat.png);
+    width: 335px;
+    height: 431.033px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 40px 20px;
+}
+
+.sand{
+    background-image: url(../images/sand-and-sea.png);
+    width: 335px;
+    height: 431.033px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 40px 20px;
+}
+
+.night{
+    background-image: url(../images/starry-night.png);
+    width: 335px;
+    height: 431.033px;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+    padding: 0 0 40px 20px;
+}
+
+
+
+h1{
+    color: #FFF;
+    font-size: 30px;
+}
+p{
+    color: #FFF;
+    font-size: 17px;
+    font-weight: 300px;
+}
